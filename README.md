@@ -1,8 +1,7 @@
 # eeg-processing
 This contains a generic EEG processing pipeline inspired by the HAPPE pipeline, in Matlab using EEGLab.
-The folder structure is stated below:
+The folder structure is stated below:\n
 Main_Folder
-  |
   |Subject1
     |EEG_File1
     |EEG_File2
