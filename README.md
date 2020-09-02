@@ -2,19 +2,19 @@
 This contains a generic EEG processing pipeline inspired by the HAPPE pipeline, in Matlab using EEGLab.<br>
 The folder structure is stated below:<br>
 Main_Folder<br>
- &nbsp;&nbsp;& |Subject1<br>
- &nbsp;&nbsp;&&nbsp;&nbsp;&   |EEG_File1<br>
-  &nbsp;&nbsp;&&nbsp;&nbsp;&  |EEG_File2<br>
- &nbsp;&nbsp;&&nbsp;&nbsp;&   |EEG_File3<br>
- &nbsp;&nbsp;&&nbsp;&nbsp;&   |EEG_File4<br>
- &nbsp;&nbsp;&&nbsp;&nbsp;&   |....<br>
- &nbsp;&nbsp;& |Subject2<br>
- &nbsp;&nbsp;&&nbsp;&nbsp;&   |EEG_File1<br>
-&nbsp;&nbsp;&&nbsp;&nbsp;&    |EEG_File2<br>
-&nbsp;&nbsp;&&nbsp;&nbsp;&    |EEG_File3<br>
-&nbsp;&nbsp;&&nbsp;&nbsp;&    |EEG_File4<br>
-&nbsp;&nbsp;&&nbsp;&nbsp;&    |....<br>
-  &nbsp;&nbsp;&|...<br>
+&nbsp;&nbsp; |Subject1<br>
+&nbsp;&nbsp;&nbsp;&nbsp;  |EEG_File1<br>
+&nbsp;&nbsp;&nbsp;&nbsp;  |EEG_File2<br>
+&nbsp;&nbsp;&nbsp;&nbsp;   |EEG_File3<br>
+&nbsp;&nbsp;&nbsp;&nbsp;   |EEG_File4<br>
+&nbsp;&nbsp;&nbsp;&nbsp;   |....<br>
+&nbsp;&nbsp; |Subject2<br>
+&nbsp;&nbsp;&nbsp;&nbsp;   |EEG_File1<br>
+&nbsp;&nbsp;&nbsp;&nbsp;    |EEG_File2<br>
+&nbsp;&nbsp;&nbsp;&nbsp;    |EEG_File3<br>
+&nbsp;&nbsp;&nbsp;&nbsp;    |EEG_File4<br>
+&nbsp;&nbsp;&nbsp;&nbsp;    |....<br>
+ &nbsp;&nbsp;|...<br>
   <br>
   Suggestions:<br>
   1.Play with the artifact removal probability according to requirements/dataset.<br>
